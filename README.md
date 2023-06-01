@@ -1,25 +1,4 @@
-# README
+# Gerenciador de tarefas
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![image](https://github.com/Eduardathais/todolist1/assets/104021486/40bc45f6-1d3b-4965-ab45-644195d595f0)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# todolist1
